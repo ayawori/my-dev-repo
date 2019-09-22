@@ -4,7 +4,16 @@ Source:
 
 ### Terms
 
-AAR
+AAR - Annual recurring revenue 
+TBS - Teradata Business Systems
+
+Pervasive Data Intelligence:
+
+Now we leverage 100% of the data to uncover real-time intelligence, at scale. We enable companies to rise above the complexity, cost, and inadequacy of today’s analytics landscape, finding answers to the toughest challenges. 
+
+```
+uncover - descubrir
+```
 
 ### Teradata's people will:
 
