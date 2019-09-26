@@ -1,3 +1,9 @@
+# Source:
+# Clustering Using KMeans with Teradata Python Package
+#
+# https://docs.teradata.com/reader/eteIDCTX4O4IMvazRMypxQ/1EvzbEtx5ctHXiwlJYsbbg
+#
+
 from teradataml.analytics.mle.KMeans import KMeans
 from teradataml.dataframe.dataframe import DataFrame
 from teradataml.data.load_example_data import load_example_data
@@ -47,7 +53,7 @@ print(dict(zip(features, centroid_values)))
 # Withinness
 print("\nWithinness: " + str(kMeans_output.withinss))
 
-# print(kMeans_output.clustered_output.head(30))
+# kMeans_output.clustered_output.head(30)
 # print(kMeans_output.output)
 
 # Inner join of clustered_output to actual dataset df_train We shall use the data from df1 to plot.
